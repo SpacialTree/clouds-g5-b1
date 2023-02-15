@@ -1,0 +1,11 @@
+\begin{table}
+\begin{tabular}{ccc}
+Molecule and Transition & Percentile Subtracted & Vertical Shift \\
+ &  & $\mathrm{K}$ \\
+\ce{HC3N} v=0 $J=24\shortrightarrow23$ & 10 & 0.006 \\
+\ce{H2CO} $J=3_{2,2}\shortrightarrow2_{2,1}$ & 5 & 0.0085 \\
+\ce{H2CO} $J=3_{0,3}\shortrightarrow2_{0,2}$ & 1 & 0.011 \\
+SiO v=0 $J=5\shortrightarrow4$ & 5 & 0.0124 \\
+\ce{C^18O} $J=2\shortrightarrow1$ & 1 & 0.0215 \\
+\end{tabular}
+\end{table}
